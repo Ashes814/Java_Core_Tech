@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28adf5e9-f32b-4c53-9df2-e7f9a2c77377" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter5_inheritance/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5_inheritance/ReflectionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5_inheritance/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5_inheritance/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3_Basic/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3_Basic/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5_inheritance.ReflectionTest" />
+      <module name="Java_Core_Tech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5_inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5_inheritance.Test" />
       <module name="Java_Core_Tech" />
@@ -85,8 +98,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.CalendarTest" />
+        <item itemvalue="Application.ReflectionTest" />
         <item itemvalue="Application.test" />
+        <item itemvalue="Application.CalendarTest" />
       </list>
     </recent_temporary>
   </component>

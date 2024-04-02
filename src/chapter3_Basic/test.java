@@ -1,7 +1,9 @@
 package chapter3_Basic;
 
+import java.lang.reflect.Modifier;
 import java.time.LocalDate;
 import java.util.Date;
+import java.util.Random;
 import java.util.Scanner;
 
 /**
@@ -9,11 +11,7 @@ import java.util.Scanner;
  * @version 1.0
  */
 public class test {
-    public static void main(String[] args) {
-        LocalDate newYearEve = LocalDate.now();
-        System.out.println(newYearEve.getYear());
-        Date date = new Date();
-        System.out.println(date.getYear());
+    public static void main(String[] args) throws Exception {
 
 
     }
