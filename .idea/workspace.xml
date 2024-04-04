@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28adf5e9-f32b-4c53-9df2-e7f9a2c77377" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5_inheritance/thread12_/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9_set/linkedLIst9_1/LinkedListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9_set/treeSet/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9_set/treeSet/TreeSetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5_inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5_inheritance/class5_7/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5_inheritance/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5_inheritance/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9_set/setT/setTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9_set/setT/setTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +55,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LinkedListTest">
-    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4_OOP.CalendarTest" />
-      <module name="Java_Core_Tech" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4_OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.setTest">
     <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter9_set.linkedLIst9_1.LinkedListTest" />
       <module name="Java_Core_Tech" />
@@ -111,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="setTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9_set.setT.setTest" />
+      <module name="Java_Core_Tech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter9_set.setT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3_Basic.test" />
       <module name="Java_Core_Tech" />
@@ -126,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.setTest" />
         <item itemvalue="Application.LinkedListTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ReflectionTest" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.CalendarTest" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687931283000</updated>
       <workItem from="1712034900356" duration="2002000" />
-      <workItem from="1712197831775" duration="2290000" />
+      <workItem from="1712197831775" duration="4358000" />
     </task>
     <servers />
   </component>
