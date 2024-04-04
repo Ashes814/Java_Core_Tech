@@ -1,4 +1,4 @@
-package chapter5_inheritance;
+package chapter5_inheritance.class5_7;
 
 import java.time.LocalDate;
 import java.util.Objects;

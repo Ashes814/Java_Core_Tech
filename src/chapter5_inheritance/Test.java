@@ -1,5 +1,7 @@
 package chapter5_inheritance;
 
+import chapter5_inheritance.class5_7.Employee;
+
 import java.util.ArrayList;
 
 /**
@@ -11,6 +13,10 @@ public class Test {
     public static void main(String[] args) {
         Size size = Enum.valueOf(Size.class, "SMALL");
         System.out.println(size.getAbbreviation());
+
+        Employee e = new Employee("Jack", 100, 2021,2,1);
+        Class cl = e.getClass();
+        System.out.println(e.getClass().getName() + " | " + e.getName());
 
     }
 }
